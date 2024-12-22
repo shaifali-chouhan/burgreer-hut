@@ -92,7 +92,7 @@
   /* Hero Section Styles */
   .hero {
     height: 100vh; /* Full viewport height */
-    background-image: url('images/burger-hero-image.jpg'); /* Replace with your image */
+    background-image: url('burger-hero-image.jpg'); /* Replace with your image */
     background-size: cover;
     background-position: center;
     display: flex;
